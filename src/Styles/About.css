@@ -1,0 +1,43 @@
+.background{
+    background-color: rgb(214, 237, 248);
+    height: 190%;
+    width: 100%;
+    padding: 280px 20px ;
+    margin: 120px 0px;
+    
+}
+
+.About{
+    margin: -30px 20px 60px 60px;
+    width: 45%;
+    height: 90%;
+    position: absolute;
+    top: 305%;
+    padding: 65px 0px 50px 0px;
+}
+
+.Ab1{
+   right:400px;
+   margin: -170px -120px; 
+   position: absolute;
+   font-size: 50px;
+   color:rgb(8, 71, 131);
+   font-family: 'sans-serif';
+}
+
+.Ab2{
+    right:165px;
+    margin: -105px -90px ; 
+    position: absolute;
+    font-size: 28px;
+    color: rgb(8, 71, 131);
+ }
+
+ .Ab3{
+    right:180px;
+    margin: -30px -90px; 
+    position: absolute;
+    font-size: 20px;
+    color:rgb(8, 71, 131);
+    
+ }

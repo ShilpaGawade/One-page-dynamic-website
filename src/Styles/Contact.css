@@ -1,0 +1,50 @@
+.PageLayout{
+    background-color: rgb(106, 175, 231);
+    height: 130%;
+    width: 100%;
+    padding: 30px 30px ;
+    margin: 120px 0px;
+}
+
+.SecondHead{
+    text-align: center;
+    margin: 0px 0px 450px 0px;
+    font-size: 50px;
+    font-family: 'Playfair Display';
+    color:rgb(27, 27, 26);
+}
+
+.svg2{
+    height: 140px;
+    padding-top: 0px;
+    margin: -400px -90px 85px 600px;
+}
+
+.svg1{
+    height: 140px;
+    margin: -1000px 0px 200px 160px;
+}
+
+.svg3{
+    height: 140px;
+    right: 0;
+    margin: -260px -10px 160px 990px;
+}
+
+.location{
+    font-size: 22px;
+    font-family: 'serif';
+    margin: -170px 0 0px 70px;
+}
+
+.call{
+    font-size: 22px;
+    font-family: 'serif';
+    margin: -40px -100px 70px 600px;
+}
+
+.message{
+    font-size: 22px;
+    font-family: 'serif';
+    margin: -140px -90px 0px 940px;
+}
